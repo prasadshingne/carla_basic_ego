@@ -1,0 +1,5 @@
+output/frames/*
+output/metrics/*
+!output/frames/.gitkeep
+!output/metrics/.gitkeep
+
